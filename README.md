@@ -1,4 +1,4 @@
-# skillovilla-Python-Fundamentals-Capstone-Project-
+# Python-Fundamentals-Capstone-Project-
 🐍 Python Fundamentals Capstone Project (2025)
 Objective:
 Simulate real-world data processing tasks by handling multi-source datasets using core Python, Pandas, and NumPy.
